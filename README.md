@@ -1,4 +1,4 @@
-CAPITOLO 1
+#CAPITOLO 1
 
 Componenti sistema comunicazione: \* Conversione analogico-digitale e
 digitale-analogico \* Codifica e decodifica \* Modulazione e
